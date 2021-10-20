@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[AqtarDesign](https://aqtardesign.com/)**
-- ⚡ I specifically build mobile apps using **flutter and react-native**
+- ⚡ I specifically build mobile apps using **Flutter and React-Native**
 - 🌱 I’m currently learning **React-Native**
 - 📫 How to reach me **IBassemTarek@gmail.com**
 - 👯 I’m looking to collaborate with **startup owners**
