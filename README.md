@@ -8,7 +8,7 @@
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, flutter, and Firebase.
 
 
-- 🔭 I’m currently working on **[AqtarDesign](https://aqtardesign.com/)**
+- 🔭 I’m currently working on **[AqtarDesign](https://aqtardesign.com/) in Egypt, Alexandria** 
 - ⚡ I specifically build mobile apps using **Flutter and React-Native**
 - 🌱 I’m currently learning **React-Native**
 - 📫 How to reach me **IBassemTarek@gmail.com**
