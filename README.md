@@ -43,13 +43,15 @@
   <summary>:zap: GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbassemTarek&hide=prs,stars&show_icons=true&theme=algolia)
- 
+  </details>
  ---
 
  <details><br />
   <summary>:zap: Most Used Languages</summary> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBassemTarek)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 
 [website]: #
 [twitter]: https://twitter.com/IBassemTarek
