@@ -48,7 +48,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbassemTarek&hide=contribs,prs&icons=true&theme=algolia)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)
 
 <!-- </details> -->
 ---
