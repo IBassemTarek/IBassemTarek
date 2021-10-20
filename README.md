@@ -42,7 +42,7 @@
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="IBassemTarek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IBassemTarek" />
+  <img align="left" alt="IBassemTarek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IBassemTarek&show_icons=true&hide_border=true" />
 
 <!-- </details> -->
 ---
