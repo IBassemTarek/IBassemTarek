@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bassem</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bassem - aka [IBassemTarek](#)</h1>
 <h3 align="center">I'm a passionate front-end Developer from Egypt.</h3>
 
-### Hi there, I'm front-end Developer - aka [IBassemTarek](#) 👋
+<!-- ### Hi there, I'm front-end Developer - aka [IBassemTarek](#) 👋
 
-## I'm a  developer!!
+## I'm a  developer!! -->
 
 - 🔭 I specifically build mobile apps using flutter and react-native.
 - 👯 I’m looking to collaborate with startup owners.
