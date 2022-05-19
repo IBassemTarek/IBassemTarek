@@ -43,7 +43,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 ### Connect with me:
 
 <p align="center"> 
-<a href = "https://ibassemtarek.bio.link/"><img src="https://img.icons8.com/fluent/48/000000/internet.png"   width="45"/></a>
+<a href = "https://www.ibassemtarek.com/"><img src="https://img.icons8.com/fluent/48/000000/internet.png"   width="45"/></a>
 <a href = "https://www.linkedin.com/in/ibassemtarek/ "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"  width="45"/></a>
 <a href = "https://twitter.com/IBassemTarek"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"  width="45"/></a>
 <a href = "https://www.facebook.com/IBassemTarek/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"  width="45"/></a> 
