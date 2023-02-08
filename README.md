@@ -1,22 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bassem</h1>
-<h3 align="center">I'm a passionate front-end Developer from Egypt.</h3>
+<h3 align="center">I'm a passionate software developer from Egypt.</h3>
 
 
 ## 🙋‍♂️ About Me
-I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Javascript, React-Native, flutter, and Firebase.
+Hi! I am a software developer based in Alexandria, Egypt, driven to create technology that enhances people's lives. My expertise lies in utilizing Javascript, React-Native, Nestjs, and Flutter to bring my projects to life.
 <img src="https://github.com/IBassemTarek/IBassemTarek/blob/master/profile-img.png" align="right" width="25%"/>
 
-
-- ⚡ I specifically build mobile apps using **Flutter and React-Native**
-- 🌱 I’m currently learning **React-Native**
-- 📫 How to reach me **IBassemTarek@gmail.com**
-- 👯 I’m looking to collaborate with **startup owners**
-- 🥅 2021 Goals: Contribute more to **OpenSource Projects**
-- ⚡ Fun fact **I love to drums and everything has to do with technology**
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-<!-- - 🌱 I’m currently learning everything 🤣. -->
+- 🔭 I’m currently working **Montu LLC**
+- ⚡️ I specifically build apps using **Flutter, React-Native and Nest.js**
+- 🌱 I have recently expanded my skillset to include **DevOps**
+- 📥 How to reach me **[contact@ibassemtarek.com](mailto:emailaddress@whatever.com)**
+- 👯‍♀️ I’m looking to collaborate with **startup owners** 
+- 🥅 2023 Goals: Contribute more to **OpenSource Projects**
+- 👨🏽‍💻 All of my projects are available at **[My Portfolio](https://www.ibassemtarek.com)**
+- ⚡️ As a fun fact, I have a passion for **drumming and am also passionate about technology and all its related aspects.**
 
 
 
@@ -29,6 +28,7 @@ I'm a software developer who is passionate about creating technology to elevate 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>    
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>   
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://nestjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45" /> </a> 
