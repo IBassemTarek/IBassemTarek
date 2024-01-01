@@ -11,10 +11,10 @@ Hi! I am a software developer based in Alexandria, Egypt, driven to create techn
 - 🔭 I’m currently working **[Montu LLC](http://www.montuapps.com)**
 - ⚡️ I specifically build apps using **Flutter, React-Native and Nest.js**
 - 🌱 I have recently expanded my skillset to include **DevOps**
-- 📥 How to reach me **[contact@ibassemtarek.com](mailto:emailaddress@whatever.com)**
+- 📥 How to reach me **[ibassemtarek@gmail.com](mailto:ibassemtarek@gmail.com)**
 - 👯‍♀️ I’m looking to collaborate with **startup owners** 
 - 🥅 2023 Goals: Contribute more to **OpenSource Projects**
-- 👨🏽‍💻 All of my projects are available at **[My Portfolio](https://www.ibassemtarek.com)**
+- 👨🏽‍💻 All of my projects are available at **[My Portfolio](https://www.ibassemtarek.vercel.app/)**
 - ⚡️ As a fun fact, I have a passion for **drumming and am also passionate about technology and all its related aspects.**
 
 
@@ -43,7 +43,7 @@ Hi! I am a software developer based in Alexandria, Egypt, driven to create techn
 ### Connect with me:
 
 <p align="center"> 
-<a href = "https://www.ibassemtarek.com/"><img src="https://img.icons8.com/fluent/48/000000/internet.png"   width="45"/></a>
+<a href = "https://www.ibassemtarek.vercel.app/"><img src="https://img.icons8.com/fluent/48/000000/internet.png"   width="45"/></a>
 <a href = "https://www.linkedin.com/in/ibassemtarek/ "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"  width="45"/></a>
 <a href = "https://twitter.com/IBassemTarek"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"  width="45"/></a>
 <a href = "https://www.facebook.com/IBassemTarek/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"  width="45"/></a> 
